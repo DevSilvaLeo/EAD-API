@@ -1,0 +1,11 @@
+E:\Fabrica\EAD\API\THEONEEAD\THEONEEAD.Domain\bin\Debug\net8.0\THEONEEAD.Domain.deps.json
+E:\Fabrica\EAD\API\THEONEEAD\THEONEEAD.Domain\bin\Debug\net8.0\THEONEEAD.Domain.dll
+E:\Fabrica\EAD\API\THEONEEAD\THEONEEAD.Domain\bin\Debug\net8.0\THEONEEAD.Domain.pdb
+E:\Fabrica\EAD\API\THEONEEAD\THEONEEAD.Domain\obj\Debug\net8.0\THEONEEAD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fabrica\EAD\API\THEONEEAD\THEONEEAD.Domain\obj\Debug\net8.0\THEONEEAD.Domain.AssemblyInfoInputs.cache
+E:\Fabrica\EAD\API\THEONEEAD\THEONEEAD.Domain\obj\Debug\net8.0\THEONEEAD.Domain.AssemblyInfo.cs
+E:\Fabrica\EAD\API\THEONEEAD\THEONEEAD.Domain\obj\Debug\net8.0\THEONEEAD.Domain.csproj.CoreCompileInputs.cache
+E:\Fabrica\EAD\API\THEONEEAD\THEONEEAD.Domain\obj\Debug\net8.0\THEONEEAD.Domain.dll
+E:\Fabrica\EAD\API\THEONEEAD\THEONEEAD.Domain\obj\Debug\net8.0\refint\THEONEEAD.Domain.dll
+E:\Fabrica\EAD\API\THEONEEAD\THEONEEAD.Domain\obj\Debug\net8.0\THEONEEAD.Domain.pdb
+E:\Fabrica\EAD\API\THEONEEAD\THEONEEAD.Domain\obj\Debug\net8.0\ref\THEONEEAD.Domain.dll

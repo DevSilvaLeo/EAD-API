@@ -1,0 +1,2 @@
+wwwroot\Assets\Images\logo_ONE-ret.png
+wwwroot\Assets\Images\README.txt

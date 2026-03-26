@@ -1,0 +1,6 @@
+@THEONEEAD.API_HostAddress = http://localhost:5102
+
+GET {{THEONEEAD.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
